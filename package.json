@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "olimebberson-www",
+  "version": "1.0.0",
+  "description": "Oli's website.",
+  "repository": "https://github.com/olimebberson/www.git",
+  "author": "Oli Mebberson",
+  "scripts": {
+    "reload": "nodemon -x 'yarn serve .' -e html",
+    "start": "yarn serve ."
+  },
+  "devDependencies": {
+    "nodemon": "1.18.5",
+    "serve": "10.0.2"
+  }
+}
