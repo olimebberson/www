@@ -8,7 +8,7 @@ To develop my website, you should do the following:
 $ yarn install
 
 # Start the web server, with live reload:
-$ yarn live
+$ yarn reload
 
 ```
 
