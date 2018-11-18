@@ -5,6 +5,15 @@ body {
     margin: 0px;
 }
 
+a {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+header a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 header {
     align-items: center;
     background-color: #2A445D;
